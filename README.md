@@ -1,2 +1,0 @@
-# sudhirchauhan.io
-Technical Blog
