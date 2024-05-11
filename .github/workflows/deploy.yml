@@ -2,7 +2,7 @@ name: Deploy Site Asap
 on:
   push:
     branches:
-      - master  # or main, depending on your default branch name
+      - main  # or main, depending on your default branch name
 jobs:
   build:
     runs-on: ubuntu-latest
